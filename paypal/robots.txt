@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /app
+Disallow: /app/lib
+Disallow: /extra
+Disallow: /extra/stockers
+Disallow: /extra/languages
+Disallow: /prevents
